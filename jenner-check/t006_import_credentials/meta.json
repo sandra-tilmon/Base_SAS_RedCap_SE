@@ -1,0 +1,7 @@
+{
+  "bundle": "t006_import_credentials",
+  "source_file": "_import_credentials.sas",
+  "source_blob_sha": "3c9f92d4ee083378b7293a5088b372e81c6ec7b9",
+  "source_commit": "4ae3f5d4a42631cce96420d21b55b58b7de626fb",
+  "notes": "Imports a provider-credentials CSV, drops two columns, sorts both sides, and merges by ID against a pre/post survey dataset. Kept the drop/sort/merge logic unmodified; replaced the PROC IMPORT step (which reads Z:\\groups\\ECHO-Chicago\\...\\CredentialsCat.csv) with an equivalent inline-DATALINES DATA step producing the same SE.Credentials columns/rows, since the hosted runner's script.sas+autoexec.sas submission has no channel for uploading a companion CSV alongside the script. Built a small mock SE.prepostwide using the same composite \"project,idvar\" ID convention _datasets_stack_se.sas's own catx(',', Project2, idvar) produces, so the by-ID merge matches real rows on both sides."
+}

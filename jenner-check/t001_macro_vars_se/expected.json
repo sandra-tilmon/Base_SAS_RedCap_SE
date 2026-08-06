@@ -1,0 +1,14 @@
+{
+  "_captured_at": "2026-08-06T22:00:00Z",
+  "_captured_run_id": "r_57d2abde835f43e5b019e3e20ba7f131",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote PairedDict (3 rows, 6 columns).",
+    "NOTE: Macro variable N_SE = 2",
+    "NOTE: Macro variable PRESEC = q1_pre, q2_pre",
+    "NOTE: Macro variable SEPAIREDNAMES = q1_post*q1_pre q2_post*q2_pre"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

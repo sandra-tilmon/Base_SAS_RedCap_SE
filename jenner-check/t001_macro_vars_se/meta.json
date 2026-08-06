@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_macro_vars_se",
+  "source_file": "_macro_vars_se.sas",
+  "source_blob_sha": "19b57fbff36e639c25bf8e4a2b5c284e56f4c160",
+  "source_commit": "4ae3f5d4a42631cce96420d21b55b58b7de626fb",
+  "notes": "Builds PRE/POST macro variable lists (domain counts, rename maps, paired variable names) from a RedCap data dictionary via PROC SQL SELECT INTO; unmodified logic. Substituted a 6-row mock work.dictDEMO (2 SE items, 1 EVALUATION item, pre+post) for the upstream work.dict&Project. that _import_redcap_data_and_dict.sas would normally build from a Z:\\ network dictionary file; pointed &Project. at a scratch libname instead of a network share."
+}

@@ -1,0 +1,15 @@
+                                                   The FREQ Procedure
+
+                                      Cumulative    Cumulative
+project2    Frequency    Percent     Frequency      Percent
+-----------------------------------------------------------------
+adhd                6     60.00            6        60.00
+adol                2     20.00            8        80.00
+cpa                 2     20.00           10       100.00
+
+                                                          Cumulative    Cumulative
+theme                           Frequency    Percent     Frequency      Percent
+-------------------------------------------------------------------------------------
+Clinical skill - sensitive -            2     20.00            2        20.00
+Communication                           2     20.00            4        40.00
+Confidence                              6     60.00           10       100.00

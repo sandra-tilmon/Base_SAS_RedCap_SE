@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_datasets_se_clin_cats",
+  "source_file": "_datasets_se_clin_cats.sas",
+  "source_blob_sha": "db28f1303368f641ce411c9dea7a7552f6a401e0",
+  "source_commit": "4ae3f5d4a42631cce96420d21b55b58b7de626fb",
+  "notes": "Builds a per-participant clinical-skill-domain dataset by averaging groups of pre/post survey items (communication, exam, treatment, clinical reasoning, knowledge, procedural) via mean() over macro-variable-supplied column lists, with a conditional branch skipping procedural-skill averaging for one named project; unmodified logic. Substituted a 3-row mock RedPrePostWide with two pre/post items per domain, and set the six PreXxxc/PostXxxc macro variables directly to the matching column-name lists that _macro_vars_clin_cats.sas would have produced via PROC SQL from a network-hosted question catalog."
+}

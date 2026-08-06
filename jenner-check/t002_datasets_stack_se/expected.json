@@ -1,0 +1,12 @@
+{
+  "_captured_at": "2026-08-06T22:20:00Z",
+  "_captured_run_id": "r_87acc5e28121436aba4b9c0a6c59167b",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote se.stacked (10 rows, 7 columns).",
+    "NOTE: Wrote SE.prepostwide"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

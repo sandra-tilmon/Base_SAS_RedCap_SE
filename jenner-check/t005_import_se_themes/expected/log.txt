@@ -1,0 +1,11 @@
+NOTE: Option OBS changed to 100.
+NOTE: Library SE assigned path=/tmp/work/r_129423abcaad4adfafbd10b7def1716a/work/88dce9d7-af05-4bf5-85e6-212d5352080a.
+NOTE: DATA se.THEMES
+
+NOTE: Processing inline DATALINES (4 lines)
+
+NOTE: Read 4 rows from DATALINES.
+NOTE: Wrote se.THEMES (4 rows, 8 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
