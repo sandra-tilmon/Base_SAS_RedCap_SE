@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_se_counts_countery",
+  "source_file": "_se_counts.sas",
+  "source_blob_sha": "d27f38d09cd32e80889b07102770fe65a4de4dac",
+  "source_commit": "4ae3f5d4a42631cce96420d21b55b58b7de626fb",
+  "notes": "Defines the %countery macro (parses project-specific pre/post timestamp strings into SAS dates, keeping only participants with a valid, in-range post-survey date) and calls it once per RedCap project (14 calls), then runs one PROC FREQ per project on redcap_event_name and stacks all 14 results; kept byte-for-byte including every %countery() call and every PROC FREQ. Substituted one small mock <project>.redcap dataset per project (own scratch subdirectory per libname) shaped like a RedCap export, with ADHDApr's timestamps in YYYY-MM-DD (its branch parses with yymmdd10.) and every other project's in MM/DD/YYYY (the ELSE branch parses with mmddyy10.), matching what each project's real %countery() call expects."
+}

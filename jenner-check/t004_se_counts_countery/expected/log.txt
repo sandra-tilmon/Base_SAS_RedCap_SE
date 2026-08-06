@@ -1,0 +1,746 @@
+NOTE: Option OBS changed to 100.
+NOTE: Library ADHDAPR assigned path=/tmp/work/r_4a27a3618cc04d519328ad254468a907/work/d16867c2-29d8-4a56-a92b-1274028fa491/adhdapr.
+NOTE: Library ADHDOCT assigned path=/tmp/work/r_4a27a3618cc04d519328ad254468a907/work/d16867c2-29d8-4a56-a92b-1274028fa491/adhdoct.
+NOTE: Library ADOL assigned path=/tmp/work/r_4a27a3618cc04d519328ad254468a907/work/d16867c2-29d8-4a56-a92b-1274028fa491/adol.
+NOTE: Library BHCOLL assigned path=/tmp/work/r_4a27a3618cc04d519328ad254468a907/work/d16867c2-29d8-4a56-a92b-1274028fa491/bhcoll.
+NOTE: Library BHPSY assigned path=/tmp/work/r_4a27a3618cc04d519328ad254468a907/work/d16867c2-29d8-4a56-a92b-1274028fa491/bhpsy.
+NOTE: Library CAT assigned path=/tmp/work/r_4a27a3618cc04d519328ad254468a907/work/d16867c2-29d8-4a56-a92b-1274028fa491/cat.
+NOTE: Library CPA assigned path=/tmp/work/r_4a27a3618cc04d519328ad254468a907/work/d16867c2-29d8-4a56-a92b-1274028fa491/cpa.
+NOTE: Library GERI assigned path=/tmp/work/r_4a27a3618cc04d519328ad254468a907/work/d16867c2-29d8-4a56-a92b-1274028fa491/geri.
+NOTE: Library GERISNF assigned path=/tmp/work/r_4a27a3618cc04d519328ad254468a907/work/d16867c2-29d8-4a56-a92b-1274028fa491/gerisnf.
+NOTE: Library HCV assigned path=/tmp/work/r_4a27a3618cc04d519328ad254468a907/work/d16867c2-29d8-4a56-a92b-1274028fa491/hcv.
+NOTE: Library HTN assigned path=/tmp/work/r_4a27a3618cc04d519328ad254468a907/work/d16867c2-29d8-4a56-a92b-1274028fa491/htn.
+NOTE: Library OBESITY assigned path=/tmp/work/r_4a27a3618cc04d519328ad254468a907/work/d16867c2-29d8-4a56-a92b-1274028fa491/obesity.
+NOTE: Library OPIATES assigned path=/tmp/work/r_4a27a3618cc04d519328ad254468a907/work/d16867c2-29d8-4a56-a92b-1274028fa491/opiates.
+NOTE: Library RBWH assigned path=/tmp/work/r_4a27a3618cc04d519328ad254468a907/work/d16867c2-29d8-4a56-a92b-1274028fa491/rbwh.
+NOTE: Library SMI assigned path=/tmp/work/r_4a27a3618cc04d519328ad254468a907/work/d16867c2-29d8-4a56-a92b-1274028fa491/smi.
+NOTE: DATA ADHDApr.redcap
+
+NOTE: Processing inline DATALINES (2 lines)
+
+NOTE: Read 2 rows from DATALINES.
+NOTE: Wrote ADHDApr.redcap (2 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA ADHDOct.redcap
+
+NOTE: Processing inline DATALINES (1 lines)
+
+NOTE: Read 1 rows from DATALINES.
+NOTE: Wrote ADHDOct.redcap (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA Adol.redcap
+
+NOTE: Processing inline DATALINES (1 lines)
+
+NOTE: Read 1 rows from DATALINES.
+NOTE: Wrote Adol.redcap (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA BHColl.redcap
+
+NOTE: Processing inline DATALINES (1 lines)
+
+NOTE: Read 1 rows from DATALINES.
+NOTE: Wrote BHColl.redcap (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA BHPsy.redcap
+
+NOTE: Processing inline DATALINES (1 lines)
+
+NOTE: Read 1 rows from DATALINES.
+NOTE: Wrote BHPsy.redcap (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA CAT.redcap
+
+NOTE: Processing inline DATALINES (1 lines)
+
+NOTE: Read 1 rows from DATALINES.
+NOTE: Wrote CAT.redcap (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA CPA.redcap
+
+NOTE: Processing inline DATALINES (1 lines)
+
+NOTE: Read 1 rows from DATALINES.
+NOTE: Wrote CPA.redcap (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA Geri.redcap
+
+NOTE: Processing inline DATALINES (1 lines)
+
+NOTE: Read 1 rows from DATALINES.
+NOTE: Wrote Geri.redcap (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA GeriSNF.redcap
+
+NOTE: Processing inline DATALINES (1 lines)
+
+NOTE: Read 1 rows from DATALINES.
+NOTE: Wrote GeriSNF.redcap (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA HCV.redcap
+
+NOTE: Processing inline DATALINES (1 lines)
+
+NOTE: Read 1 rows from DATALINES.
+NOTE: Wrote HCV.redcap (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA HTN.redcap
+
+NOTE: Processing inline DATALINES (1 lines)
+
+NOTE: Read 1 rows from DATALINES.
+NOTE: Wrote HTN.redcap (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA Obesity.redcap
+
+NOTE: Processing inline DATALINES (1 lines)
+
+NOTE: Read 1 rows from DATALINES.
+NOTE: Wrote Obesity.redcap (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA Opiates.redcap
+
+NOTE: Processing inline DATALINES (1 lines)
+
+NOTE: Read 1 rows from DATALINES.
+NOTE: Wrote Opiates.redcap (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA RBWH.redcap
+
+NOTE: Processing inline DATALINES (1 lines)
+
+NOTE: Read 1 rows from DATALINES.
+NOTE: Wrote RBWH.redcap (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA SMI.redcap
+
+NOTE: Processing inline DATALINES (1 lines)
+
+NOTE: Read 1 rows from DATALINES.
+NOTE: Wrote SMI.redcap (1 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA ADHDApr.redcap2
+
+
+NOTE: Read 2 rows from ADHDApr.redcap.
+NOTE: Wrote ADHDApr.redcap2 (2 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA _include
+
+
+NOTE: Read 2 rows from ADHDApr.redcap2.
+NOTE: Wrote _include (2 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=_include
+
+NOTE: Read 2 rows from _include.
+NOTE: Wrote _include (2 rows, 3 columns).
+NOTE: PROC SORT statement used.
+NOTE: PROC SORT data=ADHDApr.redcap2
+
+NOTE: Read 2 rows from ADHDApr.redcap2.
+NOTE: Wrote ADHDApr.redcap2 (2 rows, 6 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA ADHDApr.redcap3
+
+NOTE: Stream 1 processed 2 rows, max BY-group size: 1 (O(1) memory verified)
+NOTE: Stream 2 processed 2 rows, max BY-group size: 1 (O(1) memory verified)
+
+NOTE: Wrote ADHDApr.redcap3 (2 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA ADHDOct.redcap2
+
+
+NOTE: Read 1 rows from ADHDOct.redcap.
+NOTE: Wrote ADHDOct.redcap2 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA _include
+
+
+NOTE: Read 1 rows from ADHDOct.redcap2.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=_include
+
+NOTE: Read 1 rows from _include.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: PROC SORT statement used.
+NOTE: PROC SORT data=ADHDOct.redcap2
+
+NOTE: Read 1 rows from ADHDOct.redcap2.
+NOTE: Wrote ADHDOct.redcap2 (1 rows, 6 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA ADHDOct.redcap3
+
+NOTE: Stream 1 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+NOTE: Stream 2 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+
+NOTE: Wrote ADHDOct.redcap3 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA Adol.redcap2
+
+
+NOTE: Read 1 rows from Adol.redcap.
+NOTE: Wrote Adol.redcap2 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA _include
+
+
+NOTE: Read 1 rows from Adol.redcap2.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=_include
+
+NOTE: Read 1 rows from _include.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: PROC SORT statement used.
+NOTE: PROC SORT data=Adol.redcap2
+
+NOTE: Read 1 rows from Adol.redcap2.
+NOTE: Wrote Adol.redcap2 (1 rows, 6 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA Adol.redcap3
+
+NOTE: Stream 1 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+NOTE: Stream 2 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+
+NOTE: Wrote Adol.redcap3 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA BHColl.redcap2
+
+
+NOTE: Read 1 rows from BHColl.redcap.
+NOTE: Wrote BHColl.redcap2 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA _include
+
+
+NOTE: Read 1 rows from BHColl.redcap2.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=_include
+
+NOTE: Read 1 rows from _include.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: PROC SORT statement used.
+NOTE: PROC SORT data=BHColl.redcap2
+
+NOTE: Read 1 rows from BHColl.redcap2.
+NOTE: Wrote BHColl.redcap2 (1 rows, 6 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA BHColl.redcap3
+
+NOTE: Stream 1 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+NOTE: Stream 2 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+
+NOTE: Wrote BHColl.redcap3 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA BHPsy.redcap2
+
+
+NOTE: Read 1 rows from BHPsy.redcap.
+NOTE: Wrote BHPsy.redcap2 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA _include
+
+
+NOTE: Read 1 rows from BHPsy.redcap2.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=_include
+
+NOTE: Read 1 rows from _include.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: PROC SORT statement used.
+NOTE: PROC SORT data=BHPsy.redcap2
+
+NOTE: Read 1 rows from BHPsy.redcap2.
+NOTE: Wrote BHPsy.redcap2 (1 rows, 6 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA BHPsy.redcap3
+
+NOTE: Stream 1 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+NOTE: Stream 2 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+
+NOTE: Wrote BHPsy.redcap3 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA CAT.redcap2
+
+
+NOTE: Read 1 rows from CAT.redcap.
+NOTE: Wrote CAT.redcap2 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA _include
+
+
+NOTE: Read 1 rows from CAT.redcap2.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=_include
+
+NOTE: Read 1 rows from _include.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: PROC SORT statement used.
+NOTE: PROC SORT data=CAT.redcap2
+
+NOTE: Read 1 rows from CAT.redcap2.
+NOTE: Wrote CAT.redcap2 (1 rows, 6 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA CAT.redcap3
+
+NOTE: Stream 1 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+NOTE: Stream 2 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+
+NOTE: Wrote CAT.redcap3 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA CPA.redcap2
+
+
+NOTE: Read 1 rows from CPA.redcap.
+NOTE: Wrote CPA.redcap2 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA _include
+
+
+NOTE: Read 1 rows from CPA.redcap2.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=_include
+
+NOTE: Read 1 rows from _include.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: PROC SORT statement used.
+NOTE: PROC SORT data=CPA.redcap2
+
+NOTE: Read 1 rows from CPA.redcap2.
+NOTE: Wrote CPA.redcap2 (1 rows, 6 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA CPA.redcap3
+
+NOTE: Stream 1 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+NOTE: Stream 2 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+
+NOTE: Wrote CPA.redcap3 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA Geri.redcap2
+
+
+NOTE: Read 1 rows from Geri.redcap.
+NOTE: Wrote Geri.redcap2 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA _include
+
+
+NOTE: Read 1 rows from Geri.redcap2.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=_include
+
+NOTE: Read 1 rows from _include.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: PROC SORT statement used.
+NOTE: PROC SORT data=Geri.redcap2
+
+NOTE: Read 1 rows from Geri.redcap2.
+NOTE: Wrote Geri.redcap2 (1 rows, 6 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA Geri.redcap3
+
+NOTE: Stream 1 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+NOTE: Stream 2 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+
+NOTE: Wrote Geri.redcap3 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA GeriSNF.redcap2
+
+
+NOTE: Read 1 rows from GeriSNF.redcap.
+NOTE: Wrote GeriSNF.redcap2 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA _include
+
+
+NOTE: Read 1 rows from GeriSNF.redcap2.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=_include
+
+NOTE: Read 1 rows from _include.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: PROC SORT statement used.
+NOTE: PROC SORT data=GeriSNF.redcap2
+
+NOTE: Read 1 rows from GeriSNF.redcap2.
+NOTE: Wrote GeriSNF.redcap2 (1 rows, 6 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA GeriSNF.redcap3
+
+NOTE: Stream 1 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+NOTE: Stream 2 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+
+NOTE: Wrote GeriSNF.redcap3 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA HCV.redcap2
+
+
+NOTE: Read 1 rows from HCV.redcap.
+NOTE: Wrote HCV.redcap2 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA _include
+
+
+NOTE: Read 1 rows from HCV.redcap2.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=_include
+
+NOTE: Read 1 rows from _include.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: PROC SORT statement used.
+NOTE: PROC SORT data=HCV.redcap2
+
+NOTE: Read 1 rows from HCV.redcap2.
+NOTE: Wrote HCV.redcap2 (1 rows, 6 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA HCV.redcap3
+
+NOTE: Stream 1 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+NOTE: Stream 2 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+
+NOTE: Wrote HCV.redcap3 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA HTN.redcap2
+
+
+NOTE: Read 1 rows from HTN.redcap.
+NOTE: Wrote HTN.redcap2 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA _include
+
+
+NOTE: Read 1 rows from HTN.redcap2.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=_include
+
+NOTE: Read 1 rows from _include.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: PROC SORT statement used.
+NOTE: PROC SORT data=HTN.redcap2
+
+NOTE: Read 1 rows from HTN.redcap2.
+NOTE: Wrote HTN.redcap2 (1 rows, 6 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA HTN.redcap3
+
+NOTE: Stream 1 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+NOTE: Stream 2 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+
+NOTE: Wrote HTN.redcap3 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA Obesity.redcap2
+
+
+NOTE: Read 1 rows from Obesity.redcap.
+NOTE: Wrote Obesity.redcap2 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA _include
+
+
+NOTE: Read 1 rows from Obesity.redcap2.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=_include
+
+NOTE: Read 1 rows from _include.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: PROC SORT statement used.
+NOTE: PROC SORT data=Obesity.redcap2
+
+NOTE: Read 1 rows from Obesity.redcap2.
+NOTE: Wrote Obesity.redcap2 (1 rows, 6 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA Obesity.redcap3
+
+NOTE: Stream 1 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+NOTE: Stream 2 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+
+NOTE: Wrote Obesity.redcap3 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA Opiates.redcap2
+
+
+NOTE: Read 1 rows from Opiates.redcap.
+NOTE: Wrote Opiates.redcap2 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA _include
+
+
+NOTE: Read 1 rows from Opiates.redcap2.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=_include
+
+NOTE: Read 1 rows from _include.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: PROC SORT statement used.
+NOTE: PROC SORT data=Opiates.redcap2
+
+NOTE: Read 1 rows from Opiates.redcap2.
+NOTE: Wrote Opiates.redcap2 (1 rows, 6 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA Opiates.redcap3
+
+NOTE: Stream 1 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+NOTE: Stream 2 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+
+NOTE: Wrote Opiates.redcap3 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA RBWH.redcap2
+
+
+NOTE: Read 1 rows from RBWH.redcap.
+NOTE: Wrote RBWH.redcap2 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA _include
+
+
+NOTE: Read 1 rows from RBWH.redcap2.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=_include
+
+NOTE: Read 1 rows from _include.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: PROC SORT statement used.
+NOTE: PROC SORT data=RBWH.redcap2
+
+NOTE: Read 1 rows from RBWH.redcap2.
+NOTE: Wrote RBWH.redcap2 (1 rows, 6 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA RBWH.redcap3
+
+NOTE: Stream 1 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+NOTE: Stream 2 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+
+NOTE: Wrote RBWH.redcap3 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA SMI.redcap2
+
+
+NOTE: Read 1 rows from SMI.redcap.
+NOTE: Wrote SMI.redcap2 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA _include
+
+
+NOTE: Read 1 rows from SMI.redcap2.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=_include
+
+NOTE: Read 1 rows from _include.
+NOTE: Wrote _include (1 rows, 3 columns).
+NOTE: PROC SORT statement used.
+NOTE: PROC SORT data=SMI.redcap2
+
+NOTE: Read 1 rows from SMI.redcap2.
+NOTE: Wrote SMI.redcap2 (1 rows, 6 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA SMI.redcap3
+
+NOTE: Stream 1 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+NOTE: Stream 2 processed 1 rows, max BY-group size: 1 (O(1) memory verified)
+
+NOTE: Wrote SMI.redcap3 (1 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC FREQ
+NOTE: Output dataset adhdapr has 1 observations and 3 variables.
+NOTE: PROC FREQ statement used.
+NOTE: PROC FREQ
+NOTE: Output dataset adhdoct has 1 observations and 3 variables.
+NOTE: PROC FREQ statement used.
+NOTE: PROC FREQ
+NOTE: Output dataset adol has 1 observations and 3 variables.
+NOTE: PROC FREQ statement used.
+NOTE: PROC FREQ
+NOTE: Output dataset bhcoll has 1 observations and 3 variables.
+NOTE: PROC FREQ statement used.
+NOTE: PROC FREQ
+NOTE: Output dataset bhpsy has 1 observations and 3 variables.
+NOTE: PROC FREQ statement used.
+NOTE: PROC FREQ
+NOTE: Output dataset cat has 1 observations and 3 variables.
+NOTE: PROC FREQ statement used.
+NOTE: PROC FREQ
+NOTE: Output dataset cpa has 1 observations and 3 variables.
+NOTE: PROC FREQ statement used.
+NOTE: PROC FREQ
+NOTE: Output dataset geri has 1 observations and 3 variables.
+NOTE: PROC FREQ statement used.
+NOTE: PROC FREQ
+NOTE: Output dataset gerisnf has 1 observations and 3 variables.
+NOTE: PROC FREQ statement used.
+NOTE: PROC FREQ
+NOTE: Output dataset hcv has 1 observations and 3 variables.
+NOTE: PROC FREQ statement used.
+NOTE: PROC FREQ
+NOTE: Output dataset htn has 1 observations and 3 variables.
+NOTE: PROC FREQ statement used.
+NOTE: PROC FREQ
+NOTE: Output dataset obesity has 1 observations and 3 variables.
+NOTE: PROC FREQ statement used.
+NOTE: PROC FREQ
+NOTE: Output dataset opiates has 1 observations and 3 variables.
+NOTE: PROC FREQ statement used.
+NOTE: PROC FREQ
+NOTE: Output dataset rbwh has 1 observations and 3 variables.
+NOTE: PROC FREQ statement used.
+NOTE: PROC FREQ
+NOTE: Output dataset smi has 1 observations and 3 variables.
+NOTE: PROC FREQ statement used.
+NOTE: DATA counts
+
+
+NOTE: Read 1 rows from adhdapr.
+NOTE: Read 1 rows from adhdoct.
+NOTE: Read 1 rows from adol.
+NOTE: Read 1 rows from bhcoll.
+NOTE: Read 1 rows from bhpsy.
+NOTE: Read 1 rows from cat.
+NOTE: Read 1 rows from cpa.
+NOTE: Read 1 rows from geri.
+NOTE: Read 1 rows from gerisnf.
+NOTE: Read 1 rows from hcv.
+NOTE: Read 1 rows from htn.
+NOTE: Read 1 rows from obesity.
+NOTE: Read 1 rows from opiates.
+NOTE: Read 1 rows from rbwh.
+NOTE: Read 1 rows from smi.
+NOTE: Wrote counts (15 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=counts
+
+NOTE: PROC PRINT completed: 15 observations printed, 3 variables

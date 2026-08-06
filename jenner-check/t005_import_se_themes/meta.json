@@ -1,0 +1,7 @@
+{
+  "bundle": "t005_import_se_themes",
+  "source_file": "_import_se_themes_clin_cats.sas",
+  "source_blob_sha": "41030bad6c8f0165483f90614ac46de99fb1add0",
+  "source_commit": "4ae3f5d4a42631cce96420d21b55b58b7de626fb",
+  "notes": "Reads a fixed-column CSV of survey-question theme/domain metadata (Project, Variable, var2, Theme, Lesser_themes, CSDomain, CSComponent, Text) via an explicit INFILE/INFORMAT/INPUT block; unmodified INFORMAT/FORMAT/INPUT logic and column layout. Redirected the INFILE source from the hardcoded Z:\\groups\\ECHO-Chicago\\... network path to inline DATALINES (4 rows covering three of this repo's own project codes: ADHDApr, Adol, CPA), since the hosted runner's script.sas+autoexec.sas submission has no channel for uploading a companion CSV alongside the script, and pointed the se libname at a scratch location."
+}

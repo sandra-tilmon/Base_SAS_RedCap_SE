@@ -1,0 +1,11 @@
+{
+  "_captured_at": "2026-08-06T22:55:00Z",
+  "_captured_run_id": "r_129423abcaad4adfafbd10b7def1716a",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote se.THEMES (4 rows, 8 columns)."
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

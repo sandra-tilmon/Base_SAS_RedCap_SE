@@ -1,0 +1,109 @@
+                                                   The FREQ Procedure
+
+                                               Cumulative    Cumulative
+redcap_event_name    Frequency    Percent     Frequency      Percent
+--------------------------------------------------------------------------
+initial_arm_1                2    100.00            2       100.00
+                                                   The FREQ Procedure
+
+                                               Cumulative    Cumulative
+redcap_event_name    Frequency    Percent     Frequency      Percent
+--------------------------------------------------------------------------
+initial_arm_1                1    100.00            1       100.00
+                                                   The FREQ Procedure
+
+                                               Cumulative    Cumulative
+redcap_event_name    Frequency    Percent     Frequency      Percent
+--------------------------------------------------------------------------
+initial_arm_1                1    100.00            1       100.00
+                                                   The FREQ Procedure
+
+                                               Cumulative    Cumulative
+redcap_event_name    Frequency    Percent     Frequency      Percent
+--------------------------------------------------------------------------
+initial_arm_1                1    100.00            1       100.00
+                                                   The FREQ Procedure
+
+                                               Cumulative    Cumulative
+redcap_event_name    Frequency    Percent     Frequency      Percent
+--------------------------------------------------------------------------
+initial_arm_1                1    100.00            1       100.00
+                                                   The FREQ Procedure
+
+                                               Cumulative    Cumulative
+redcap_event_name    Frequency    Percent     Frequency      Percent
+--------------------------------------------------------------------------
+initial_arm_1                1    100.00            1       100.00
+                                                   The FREQ Procedure
+
+                                               Cumulative    Cumulative
+redcap_event_name    Frequency    Percent     Frequency      Percent
+--------------------------------------------------------------------------
+initial_arm_1                1    100.00            1       100.00
+                                                   The FREQ Procedure
+
+                                               Cumulative    Cumulative
+redcap_event_name    Frequency    Percent     Frequency      Percent
+--------------------------------------------------------------------------
+initial_arm_1                1    100.00            1       100.00
+                                                   The FREQ Procedure
+
+                                               Cumulative    Cumulative
+redcap_event_name    Frequency    Percent     Frequency      Percent
+--------------------------------------------------------------------------
+initial_arm_1                1    100.00            1       100.00
+                                                   The FREQ Procedure
+
+                                               Cumulative    Cumulative
+redcap_event_name    Frequency    Percent     Frequency      Percent
+--------------------------------------------------------------------------
+initial_arm_1                1    100.00            1       100.00
+                                                   The FREQ Procedure
+
+                                               Cumulative    Cumulative
+redcap_event_name    Frequency    Percent     Frequency      Percent
+--------------------------------------------------------------------------
+initial_arm_1                1    100.00            1       100.00
+                                                   The FREQ Procedure
+
+                                               Cumulative    Cumulative
+redcap_event_name    Frequency    Percent     Frequency      Percent
+--------------------------------------------------------------------------
+initial_arm_1                1    100.00            1       100.00
+                                                   The FREQ Procedure
+
+                                               Cumulative    Cumulative
+redcap_event_name    Frequency    Percent     Frequency      Percent
+--------------------------------------------------------------------------
+initial_arm_1                1    100.00            1       100.00
+                                                   The FREQ Procedure
+
+                                               Cumulative    Cumulative
+redcap_event_name    Frequency    Percent     Frequency      Percent
+--------------------------------------------------------------------------
+initial_arm_1                1    100.00            1       100.00
+                                                   The FREQ Procedure
+
+                                               Cumulative    Cumulative
+redcap_event_name    Frequency    Percent     Frequency      Percent
+--------------------------------------------------------------------------
+initial_arm_1                1    100.00            1       100.00
+
+  Obs  redcap_event_name  COUNT  PERCENT
+-----  -----------------  -----  -------
+    1  initial_arm_1          2      100
+    2  initial_arm_1          1      100
+    3  initial_arm_1          1      100
+    4  initial_arm_1          1      100
+    5  initial_arm_1          1      100
+    6  initial_arm_1          1      100
+    7  initial_arm_1          1      100
+    8  initial_arm_1          1      100
+    9  initial_arm_1          1      100
+   10  initial_arm_1          1      100
+   11  initial_arm_1          1      100
+   12  initial_arm_1          1      100
+   13  initial_arm_1          1      100
+   14  initial_arm_1          1      100
+   15  initial_arm_1          1      100
+

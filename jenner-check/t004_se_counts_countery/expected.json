@@ -1,0 +1,11 @@
+{
+  "_captured_at": "2026-08-06T22:45:00Z",
+  "_captured_run_id": "r_4a27a3618cc04d519328ad254468a907",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote counts (15 rows, 3 columns)."
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

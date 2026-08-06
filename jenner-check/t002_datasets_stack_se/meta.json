@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_datasets_stack_se",
+  "source_file": "_datasets_stack_se.sas",
+  "source_blob_sha": "4593ae3615d19536ba6f6f234b5689d8f230ffa0",
+  "source_commit": "4ae3f5d4a42631cce96420d21b55b58b7de626fb",
+  "notes": "Stacks per-project se_themes datasets, derives project2 and a composite ID, runs PROC FREQ, then reshapes Pre/Post rows into a wide delta dataset; unmodified logic. Substituted 4 populated mock se_themes datasets (adhdapr, adhdoct, adol, cpa) plus 10 empty-shell ones for the remaining projects (cat, diabetes, geri, gerisnf, hcv, htn, obesity, opiates, rbwh, smi) in place of the 14 network-share libraries _libraries_se.sas normally defines, and pointed se.* at a scratch libname instead of the network research share."
+}

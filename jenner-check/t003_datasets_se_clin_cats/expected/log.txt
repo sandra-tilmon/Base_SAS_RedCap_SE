@@ -1,0 +1,19 @@
+NOTE: Option OBS changed to 100.
+NOTE: Library DEMO assigned path=/tmp/work/r_d679115fc7b9454880ebfcd9e1f9e5dd/work/48d29bb1-c721-420c-86b0-804f4364220a.
+NOTE: DATA demo.RedPrePostWide
+
+NOTE: Processing inline DATALINES (3 lines)
+
+NOTE: Read 3 rows from DATALINES.
+NOTE: Wrote demo.RedPrePostWide (3 rows, 32 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA DEMO.ClinicalSkills
+
+
+NOTE: Read 3 rows from DEMO.RedPrePostWide.
+NOTE: Wrote DEMO.ClinicalSkills (3 rows, 20 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
